@@ -1,0 +1,19 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1{
+  font-size: -webit-xxx-large;
+}
+
+.question {
+  border-left: 10px solid;
+  padding-left: 17px;
+  border-color: gray;
+}
+
+.answer {
+  background-color: cornsilk;
+  border-left: 10px solid;
+  padding-left: 17px;
+  border-color: gray;
+}
